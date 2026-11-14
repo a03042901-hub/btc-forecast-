@@ -1,0 +1,5 @@
+input/
+out/
+out2/
+*.pyc
+__pycache__/
